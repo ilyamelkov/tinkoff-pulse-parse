@@ -37,4 +37,4 @@ All functions are located in one python file called tinkoff_parse.py
   - Formats the date in a dataframe to yyyy-mm-dd format.
 
 - check_add_create_file(p_fname_fmt, df):
-  - Checks whether the file with the ticker exists in parsed_data folder. Creates it, if doesn't exist and updates it if it exists.     
+  - Checks whether the file with the ticker exists in parsed_data folder. Creates it, if a file doesn't exist or updates it if it exists.     
