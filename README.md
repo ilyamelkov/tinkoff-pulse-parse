@@ -3,7 +3,7 @@
 ## **Motivation**
 - Social network for investors "Pulse" Tinkoff Investments is the largest social network for investors in Russia and the 6th in the world according to a [study by Trust Technologies (former PwC) in 2021](https://www.tinkoff.ru/about/news/09-12-2022-pulse-is-recognized-largest-social-network-for-investors-in-russia/)
 - Data from "Pulse" can be used for sentiment analysis with regards to price fluctuations on a stock market
-- As for now, "Pulse" social network doesn't have it's API which would allow people extract data
+- As for now, "Pulse" social network doesn't have it's API which would allow people to extract data
 - Existing solutions which I was able to find in the web did not satisfy my needs
 
 ## **Code logic explained**
