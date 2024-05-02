@@ -1,4 +1,6 @@
 # **Tinkoff "Pulse" social network posts parsing**
+## **Note**
+- Docstrings for functions are in progress
 
 ## **Motivation**
 - Social network for investors "Pulse" Tinkoff Investments is the largest social network for investors in Russia and the 6th in the world according to a [study by Trust Technologies (former PwC) in 2021](https://www.tinkoff.ru/about/news/09-12-2022-pulse-is-recognized-largest-social-network-for-investors-in-russia/).
